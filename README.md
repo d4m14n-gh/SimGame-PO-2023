@@ -1,4 +1,4 @@
-# SimGame-JP-2023
+# SimGame-PO-2023
 ![SimGame](https://github.com/user-attachments/assets/29b0f1c7-b503-41a1-b608-fbf4e38b142c)
 
 ## 📜 About the Project
