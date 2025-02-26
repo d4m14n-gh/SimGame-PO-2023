@@ -7,7 +7,7 @@ Developed as a secon-semester university project (part of the course Programowan
 
 ## 📥 Installation
 **Releases**:
-- [Latest release](https://github.com/d4m14n-gh/Go_Game-PP-2022/releases/latest)
+- [Latest release](https://github.com/d4m14n-gh/SimGame-PO-2023/releases/latest)
 
 ## 👥 Authors
 - [@d4m14n-gh](https://github.com/d4m14n-gh)
