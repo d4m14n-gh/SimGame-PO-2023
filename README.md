@@ -5,6 +5,10 @@
 Simulation with graphic interface written in python.
 Developed as a secon-semester university project (part of the course Programowanie Obiektowe at the Gdańsk University of Technology).
 
+## 📥 Installation
+**Releases**:
+- [Latest release](https://github.com/d4m14n-gh/Go_Game-PP-2022/releases/latest)
+
 ## 👥 Authors
 - [@d4m14n-gh](https://github.com/d4m14n-gh)
 
